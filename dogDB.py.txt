@@ -1,0 +1,11 @@
+import sqlite3
+
+con = sqlite3.connect("dogs.db")
+print("Database opened successfully")
+
+con.execute(
+    "create table Dogs (id INTEGER PRIMARY KEY AUTOINCREMENT, name TEXT NOT NULL, fur TEXT NOT NULL, size TEXT NOT NULL, breed TEXT NOT NULL)")
+
+print("Table created successfully")
+
+con.close()
