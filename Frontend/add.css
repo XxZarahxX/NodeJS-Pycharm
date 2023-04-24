@@ -1,0 +1,131 @@
+.main {
+    background: url(dog_bg2.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
+    height: 100vh;
+    width: 100%;
+    background-size: 1860px 1000px;
+    
+}
+  
+.html {
+    background-color: #f1f1f1;
+    width: 100px;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+}
+
+h1 {
+    padding-top: 10px; 
+    padding-bottom: 10px; 
+    padding-left: 100px; 
+    padding-right: 100px;
+    font-family: Georgia, serif;
+    color: navy;
+    margin-left: 10px;
+    text-align:center;
+}
+
+
+table {
+    padding-top: 30rem;
+    line-height: 2rem;
+    height: 3rem;
+    margin-left: 40rem;
+    text-align:center;
+}
+
+.col9_container{
+    height: 50px;
+    width: 100px;
+    background-color: rgba(63, 63, 255, 0);
+    float: none;
+    margin: 0 auto;
+}
+
+.col4_container {
+    height: 220px;
+    width: 100px;
+    background-color: rgba(63, 63, 255, 0);
+    float: none;
+    margin: 0 auto;
+}
+
+.BUTTON {
+    height: 50px;
+    width: 100px;
+    margin-left: 40rem;
+    float: none;
+    margin: 0 auto;
+    text-align: center;
+
+    background-color: #fff;
+    border: 1px solid #d5d9d9;
+    border-radius: 8px;
+    box-shadow: rgba(213, 217, 217, .5) 0 2px 5px 0;
+    box-sizing: border-box;
+    color: #0f1111;
+    cursor: pointer;
+    display: inline-block;
+    font-family: "Amazon Ember",sans-serif;
+    font-size: 20px;
+    line-height: 29px;
+    padding: 0 10px 0 11px;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: middle;
+    width: 100px;
+}
+
+.BUTTON:hover {
+    background-color: #cbcbcb;
+}
+
+.BUTTON:focus {
+    border-color: #008296;
+    box-shadow: rgba(213, 217, 217, .5) 0 2px 5px 0;
+    outline: 0;
+}
+
+.button_container {
+    height: 50px;
+    width: 100px;
+    margin-left: 40rem;
+    float: none;
+    margin: 0 auto;
+    text-align: center;
+
+}
+
+.td{
+    font-family: Georgia, serif;
+    font-size: 25px;
+    letter-spacing: -0.6px;
+    word-spacing: 2px;
+}
+
+.input {
+    font-family: Georgia, serif;
+    background-color: #f1f1f1;
+    border-style: solid;
+    border-color: rgb(74, 181, 224);
+    width: 300px;
+    margin: 15px;
+    text-align: center;
+    line-height: 7px;
+    font-size: 30px;
+}
+
+.form {
+    padding-top: 10px; 
+    padding-bottom: 10px; 
+    padding-left: 100px; 
+    padding-right: 100px;
+    font-family: Georgia, serif;
+}
